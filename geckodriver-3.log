@@ -1,0 +1,11 @@
+1616323003514	geckodriver	INFO	Listening on 127.0.0.1:49167
+1616323006582	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JiDi\\AppData\\Local\\Temp\\rust_mozprofileauXkhA"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616323013279	Marionette	INFO	Listening on port 49175
+1616323013473	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: error
+JavaScript error: https://magento.com/sites/default/files8/js/optimized/js_6PLu4riE-2dcDQ5QPzuCrl_1JQZAazd43aQw_AQJYoY.MCC6N0i77U9I5vT__eAxvlhWqW3_GnTjR2969C9__zc.js?qq857f, line 9: TypeError: id is undefined
+1616323033771	Marionette	INFO	Stopped listening on port 49175
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
